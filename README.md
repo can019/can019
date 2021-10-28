@@ -1,4 +1,5 @@
 ### Hi there 👋
+![IMG_6519](https://user-images.githubusercontent.com/26926966/139184666-a3d9fe66-430f-4d10-8491-966cac9ed09f.gif)
 
 ### 
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNUBash&logoColor=white"/> <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
