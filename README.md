@@ -1,5 +1,13 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/GNU Bash-#4EAA25?style=flat-square&logo=GNUBash&logoColor=white"/>
+
+### 
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNUBash&logoColor=white"/> <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white"/>
+
 <!--
 **can019/can019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
