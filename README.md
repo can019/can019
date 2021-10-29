@@ -13,6 +13,16 @@
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNUBash&logoColor=white"/> <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-Native-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white"/>
 </div>
 
+## Project
+- update soon ...
+
+## Course & Competition
+- 2020 KAIST AI camp
+- 2020-2021 Crawler Datathon
+- 8th K-Hackathon
+- Junior Creative Contest
+
+## Works
 * Senior Developer in Banchelin (2021~)
   * [x] Full stack
   * [x] Merge contributor  
