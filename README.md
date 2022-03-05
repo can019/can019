@@ -26,6 +26,8 @@
 * InternShip in KRIBB (2021.09 ~ 2021.12)
 
 * Project manger in Banchelin (2021.05~)
+  * [📱 App store](https://apps.apple.com/kr/app/%EB%B0%A9%EC%8A%90%EB%9E%AD%EA%B0%80%EC%9D%B4%EB%93%9C/id1594068890)
+  * [🤖 Google play store](https://play.google.com/store/search?q=방슐랭가이드&c=apps)
 
 - - -
 
@@ -36,8 +38,6 @@
   * https://www.kobic.re.kr/rdap/
   * https://www.kobic.re.kr/bioexpress/video_view?video_id=B0z3rH4y0qQ
 
-  * [📱 App store](https://apps.apple.com/kr/app/%EB%B0%A9%EC%8A%90%EB%9E%AD%EA%B0%80%EC%9D%B4%EB%93%9C/id1594068890)
-  * [🤖 Google play store](https://play.google.com/store/search?q=방슐랭가이드&c=apps)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
