@@ -21,7 +21,7 @@
 
 ## Works
 * InternShip in KRIBB (2021.09 ~ 2021.12)
-  * ![BioExpress Prototype Development](https://www.kobic.re.kr/kobic/analysis)
+  * [BioExpress Prototype Development](https://www.kobic.re.kr/kobic/analysis)
 * Start-up memeber of Banchelin guide (2021.05 ~ 2023.02)
 
 <!--
